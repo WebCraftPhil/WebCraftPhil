@@ -1,4 +1,4 @@
-## Hi there 👋
+l## Hi there 👋
 
 
 Hello, I’m Phil! 👋
@@ -30,7 +30,7 @@ Feel free to connect with me on any of these platforms:
 
  • [Twitter](https://twitter.com/vtguy65)
 	•	[LinkedIn](https://linkedin.com/phil.greene1)
-	•	[Facebook](https://facebook.com/philgreene1)
+	•	[Facebook](https://https://www.facebook.com/phil.greene1?mibextid=LQQJ4d)
 	•	[Instagram](https://instagram.com/vtguy59)
 
 Support My Journey
