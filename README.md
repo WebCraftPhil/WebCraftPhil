@@ -1,5 +1,5 @@
 ## Hi there 👋
-Here’s an updated draft for your GitHub README:
+
 
 Hello, I’m Phil! 👋
 
@@ -37,9 +37,9 @@ Support My Journey
 
 Learning to code is my passion, but I’m currently facing some financial challenges. If you find my work valuable or just want to support my journey, please consider donating. Every bit helps!
 
-Cash App: $YourCashAppTag
+Cash App: $MrBurns59
 
-Make sure to replace the placeholders with your actual social media handles and Cash App tag. Let me know if there’s anything else you’d like to add or adjust!
+
 
 
 <!--
