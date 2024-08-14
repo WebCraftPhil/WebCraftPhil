@@ -28,7 +28,7 @@ Get in Touch
 
 Feel free to connect with me on any of these platforms:
 
-	•	Twitter
+	•	<a href="twitter.com/vtguy65">Twitter(X)</a>
 	•	LinkedIn
 	•	Facebook
 	•	Instagram
