@@ -28,10 +28,10 @@ Get in Touch
 
 Feel free to connect with me on any of these platforms:
 
-	•	<a href="twitter.com/vtguy65">Twitter(X)</a>
-	•	LinkedIn
-	•	Facebook
-	•	Instagram
+ • [Twitter](https://twitter.com/vtguy65)
+	•	[LinkedIn](https://linkedin.com/phil.greene1)
+	•	[Facebook](https://facebook.com/philgreene1)
+	•	[Instagram](https://instagram.com/vtguy59)
 
 Support My Journey
 
