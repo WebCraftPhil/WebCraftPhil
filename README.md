@@ -1,6 +1,6 @@
 
 <img alt="followers" src="https://img.shields.io/github/followers/WebCraftPhil?label=Followers&style=social" />
-<img src="https://myreadme.vercel.app/api/embed/WebCraftPhil?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/WebCraftPhil?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="readme" />
 <img src="https://img.shields.io/twitter/follow/vtguy65?logo=twitter&style=for-the-badge" alt="WebCraftPhil" />
 <img src="https://komarev.com/ghpvc/?username=WebCraftPhil&color=brightgreen" alt="watching_count" />
 
