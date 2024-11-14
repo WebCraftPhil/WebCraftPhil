@@ -5,6 +5,9 @@ Hello, I’m Phil! 👋
 
 My name’s Phil, and I’m a 35-year-old “aspiring winner” on a mission to transform my life through the power of code. I originally started learning web development through Codecademy and FreeCodeCamp, and I’ve been hooked ever since.
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
+
 Background
 
 I’m working hard to build a structured path that will equip me with the skills necessary to land a job or at least an internship in the tech industry. Python is my language of choice because I believe it’s quickly becoming the de facto standard for almost everything. Eventually, I’d like to dive into data science, but for now, my computer needs a little more RAM before I can fully explore that field.
