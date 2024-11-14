@@ -22,7 +22,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 
-## Hi there 👋
+# Hi there 👋
 
 
 Hello, I’m Phil! 👋
@@ -54,7 +54,7 @@ When I’m not coding, you’ll find me enjoying life’s simpler pleasures:
 
 ## Get in Touch
 
-# Feel free to connect with me on any of these platforms:
+## Feel free to connect with me on any of these platforms:
 
  • [Twitter](https://twitter.com/vtguy65)
 	•	[LinkedIn](https://linkedin.com/phil.greene1)
@@ -65,7 +65,7 @@ When I’m not coding, you’ll find me enjoying life’s simpler pleasures:
 
 Learning to code is my passion, but I’m currently facing some financial challenges. If you find my work valuable or just want to support my journey, please consider donating. Every bit helps!
 
-# Cash App: $MrBurns59
+## Cash App: $MrBurns59
 
 
 
