@@ -5,7 +5,7 @@ Hello, I’m Phil! 👋
 
 My name’s Phil, and I’m a 35-year-old “aspiring winner” on a mission to transform my life through the power of code. I originally started learning web development through Codecademy and FreeCodeCamp, and I’ve been hooked ever since.
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T?si=eADUsRD1Rti3EHOrOdYpqQ)
 
 
