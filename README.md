@@ -19,9 +19,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+<https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white
+<https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+<https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
 https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
 https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white
