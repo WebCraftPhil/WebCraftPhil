@@ -24,12 +24,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 -
-https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)
-
 
 
 # Hi there 👋
@@ -37,7 +31,7 @@ https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=P
 
 Hello, I’m Phil! 👋
 
-My name’s Phil, and I’m a 35-year-old “aspiring winner” on a mission to transform my life through the power of code. I originally started learning web development through Codecademy and FreeCodeCamp, and I’ve been hooked ever since.
+I’m a 35-year-old “aspiring winner” on a mission to transform my life through the power of code. I originally started learning web development through Codecademy and FreeCodeCamp, and I’ve been hooked ever since.
 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T?si=eADUsRD1Rti3EHOrOdYpqQ)
