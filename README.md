@@ -1,8 +1,6 @@
-
 <img alt="followers" src="https://img.shields.io/github/followers/WebCraftPhil?label=Followers&style=social" />
 <img src="https://img.shields.io/twitter/follow/vtguy65?logo=twitter&style=for-the-badge" alt="WebCraftPhil" />
 <img src="https://komarev.com/ghpvc/?username=WebCraftPhil&color=brightgreen" alt="watching_count" />
-
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
