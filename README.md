@@ -70,7 +70,7 @@ When I’m not coding, you’ll find me enjoying life’s simpler pleasures:
 Learning to code is my passion, but I’m currently facing some financial challenges. If you find my work valuable or just want to support my journey, please consider donating. Every bit helps!
 
 ## Cash App: $MrBurns59
---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=WebCraftPhil&theme=tokyonight)](https://git.io/streak-stats)
 
 
