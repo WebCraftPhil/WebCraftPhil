@@ -23,6 +23,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 [![wakatime](https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg)](https://wakatime.com/@60977d89-ba57-4702-bdf2-021b4668c867)
+[![GitHub Streak](https://streak-stats.demolab.com?user=WebCraftPhil&theme=tokyonight)](https://git.io/streak-stats)
 -
 
 
