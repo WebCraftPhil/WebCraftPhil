@@ -23,7 +23,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 [![wakatime](https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg)](https://wakatime.com/@60977d89-ba57-4702-bdf2-021b4668c867)
-[![GitHub Streak](https://streak-stats.demolab.com?user=WebCraftPhil&theme=tokyonight)](https://git.io/streak-stats)
 -
 
 
@@ -71,6 +70,8 @@ When I’m not coding, you’ll find me enjoying life’s simpler pleasures:
 Learning to code is my passion, but I’m currently facing some financial challenges. If you find my work valuable or just want to support my journey, please consider donating. Every bit helps!
 
 ## Cash App: $MrBurns59
+--
+[![GitHub Streak](https://streak-stats.demolab.com?user=WebCraftPhil&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
