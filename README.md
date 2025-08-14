@@ -1,92 +1,86 @@
-<img alt="followers" src="https://img.shields.io/github/followers/WebCraftPhil?label=Followers&style=social" />
-<img src="https://img.shields.io/twitter/follow/vtguy65?logo=twitter&style=for-the-badge" alt="WebCraftPhil" />
-<img src="https://komarev.com/ghpvc/?username=WebCraftPhil&color=brightgreen" alt="watching_count" />
+<!-- ANIMATED TYPING BANNER -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F78C&width=800&lines=Hey%2C+I'm+Phil+Greene!+%F0%9F%91%8B;AI+Automation+%26+Digital+Products+Builder;Creator+of+LegalLeaflet.com;Lifelong+Learner+%26+Open-Source+Contributor)](https://git.io/typing-svg)
 
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)
-![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<!-- PROFILE HEADER -->
+<h1 align="center">Hey there 👋, I’m Phil Greene</h1>
+<h3 align="center">🚀 Building AI tools, creating digital products, and on a mission to level up my life through code</h3>
+
+<!-- PROFILE BADGES -->
+<p align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/WebCraftPhil?label=Followers&style=social" />
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vtguy65?logo=twitter&style=for-the-badge" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=WebCraftPhil&color=brightgreen" />
+  <a href="https://wakatime.com/@60977d89-ba57-4702-bdf2-021b4668c867"><img src="https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg" alt="wakatime"></a>
+</p>
+
+---
+
+## 💼 Projects & Platforms
+
+- 📝 **AI Contract Platform:** [LegalLeaflet.com](https://LegalLeaflet.com)  
+- 🖼 **Gravatar / Portfolio:** [philgreene.link](https://philgreene.link)  
+- 💬 **Discord:** `designhive`  
+- 🛒 **Gumroad Store:** [vtguy65.gumroad.com](https://vtguy65.gumroad.com)  
+
+---
+
+## 🛠 Tech & Tools I Use
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-[![wakatime](https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg)](https://wakatime.com/@60977d89-ba57-4702-bdf2-021b4668c867)
--
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
+---
 
-# Hi there 👋
+## 🎯 About Me
 
+I’m a 36-year-old creator and coder, constantly working to turn ideas into income. My focus right now is on **AI automation**, **data analytics**, and **digital product businesses**.  
+I believe in building practical, real-world solutions that can help freelancers, small businesses, and creators succeed.
 
-Hello, I’m Phil! 👋
+---
 
-I’m a 35-year-old “aspiring winner” on a mission to transform my life through the power of code. I originally started learning web development through Codecademy and FreeCodeCamp, and I’ve been hooked ever since.
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WebCraftPhil&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T?si=eADUsRD1Rti3EHOrOdYpqQ)
+### 🔝 Top Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebCraftPhil&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-## Background
+---
 
-I’m working hard to build a structured path that will equip me with the skills necessary to land a job or at least an internship in the tech industry. Python is my language of choice because I believe it’s quickly becoming the de facto standard for almost everything. Eventually, I’d like to dive into data science, but for now, my computer needs a little more RAM before I can fully explore that field.
+## 🎶 Now Playing on Spotify
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
 
-## Eager to Contribute
+---
 
-At the moment, I don’t have any contributors to my repositories, but I’m super eager to get involved in the open-source community. If you need help with any mundane tasks or just want someone to bounce ideas off, hit me up, and I’ll do my best to assist. I’m here to learn, grow, and give back as much as I can.
+## 📫 Let’s Connect
 
-## Interests
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vtguy65)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/phil.greene1)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vtguy59)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/phil.greene1?mibextid=LQQJ4d)
 
-When I’m not coding, you’ll find me enjoying life’s simpler pleasures:
+---
 
-	•	🎸 Listening to the Grateful Dead
-	•	🍺 Exploring craft beers
-	•	🥾 Hiking and getting lost in nature
-	•	🎶 Attending music festivals
-	•	🎣 Trout fishing
-	•	🐾 Hanging out with my cat
+## ☕ Support My Work
 
-## Get in Touch
+If you find my projects useful or just want to support the journey:  
+**Cash App:** `$MrBurns59`  
 
-## Feel free to connect with me on any of these platforms:
+---
 
- • [Twitter](https://twitter.com/vtguy65)
-	•	[LinkedIn](https://linkedin.com/phil.greene1)
-	•	[Facebook](https://https://www.facebook.com/phil.greene1?mibextid=LQQJ4d)
-	•	[Instagram](https://instagram.com/vtguy59)
-
-## Support My Journey
-
-Learning to code is my passion, but I’m currently facing some financial challenges. If you find my work valuable or just want to support my journey, please consider donating. Every bit helps!
-
-## Cash App: $MrBurns59
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=WebCraftPhil&theme=tokyonight)](https://git.io/streak-stats)
-
-
-
-
-<!--
-**WebCraftPhil/WebCraftPhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>"Keep shipping. Keep learning. Keep growing."</i></p>
