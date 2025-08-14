@@ -20,7 +20,8 @@
 - 📝 **AI Contract Platform:** [LegalLeaflet.com](https://LegalLeaflet.com)  
 - 🖼 **Gravatar / Portfolio:** [philgreene.link](https://philgreene.link)  
 - 💬 **Discord:** `designhive`  
-- 🛒 **Gumroad Store:** [vtguy65.gumroad.com](https://vtguy65.gumroad.com)  
+- 🛒 **Etsy Shop:** [stellarstylesandmore.etsy.com](https://stellarstylesandmore.etsy.com)  
+- 🛍 **Gumroad Store:** [vtguy65.gumroad.com](https://vtguy65.gumroad.com)  
 
 ---
 
@@ -60,6 +61,12 @@ I believe in building practical, real-world solutions that can help freelancers,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebCraftPhil&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WebCraftPhil&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
 ---
 
 ## 🎶 Now Playing on Spotify
@@ -79,7 +86,12 @@ I believe in building practical, real-world solutions that can help freelancers,
 ## ☕ Support My Work
 
 If you find my projects useful or just want to support the journey:  
+
 **Cash App:** `$MrBurns59`  
+
+<p align="center">
+  <img src="F4EF4081-A729-4C8E-B5FB-93C826972216.jpeg" alt="Cash App QR" width="200"/>
+</p>
 
 ---
 
