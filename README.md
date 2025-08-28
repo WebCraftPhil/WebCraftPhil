@@ -10,8 +10,18 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/WebCraftPhil?label=Followers&style=social" />
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vtguy65?logo=twitter&style=for-the-badge" />
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=WebCraftPhil&color=brightgreen" />
-  <style>.libutton { display: flex; flex-direction: column; justify-content: center; padding: 7px; text-align: center; outline: none; text-decoration: none !important; color: #ffffff !important; width: 200px; height: 32px; border-radius: 16px; background-color: #0A66C2; font-family: "SF Pro Text", Helvetica, sans-serif; } </style>
-<a class="libutton" href="http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=philgreene89" target="_black">Follow link</a>
+<a href="http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=philgreene89" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0077b5;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  border-radius: 5px;
+  text-align: center;
+">
+  Follow me on LinkedIn
+</a>
   <a href="https://wakatime.com/@60977d89-ba57-4702-bdf2-021b4668c867"><img src="https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg" alt="wakatime"></a>
 </p>
 
