@@ -1,5 +1,5 @@
 <!-- ANIMATED TYPING BANNER -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F78C&width=800&lines=Hey%2C+I'm+Phil+Greene!+%F0%9F%91%8B;AI+Automation+%26+Digital+Products+Builder;Creator+of+LegalLeaflet.com;Lifelong+Learner+%26+Open-Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F78C&width=800&lines=Hey%2C+I'm+Phil+Greene!+%F0%9F%91%8B;AI+Automation+%26+Digital+Products+Builder...)]
 
 <!-- PROFILE HEADER -->
 <h1 align="center">Hey there 👋, I’m Phil Greene</h1>
@@ -10,18 +10,9 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/WebCraftPhil?label=Followers&style=social" />
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vtguy65?logo=twitter&style=for-the-badge" />
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=WebCraftPhil&color=brightgreen" />
-<a href="http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=philgreene89" target="_blank" style="
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #0077b5;
-  color: #ffffff;
-  text-decoration: none;
-  font-family: Arial, sans-serif;
-  border-radius: 5px;
-  text-align: center;
-">
-  Follow me on LinkedIn
-</a>
+  
+  [![Follow me on LinkedIn](https://img.shields.io/badge/Follow%20Me%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=philgreene89)
+  
   <a href="https://wakatime.com/@60977d89-ba57-4702-bdf2-021b4668c867"><img src="https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg" alt="wakatime"></a>
 </p>
 
