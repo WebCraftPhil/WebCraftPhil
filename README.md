@@ -25,6 +25,7 @@
 - 💬 **Discord:** `designhive`  
 - 🛒 **Etsy Shop:** [stellarstylesandmore.etsy.com](https://stellarstylesandmore.etsy.com)  
 - 🛍 **Gumroad Store:** [vtguy65.gumroad.com](https://vtguy65.gumroad.com)  
+- 🧑‍💻 **Phil's Website:** [philgreene.net](https://philgreene.net)
 
 ---
 
