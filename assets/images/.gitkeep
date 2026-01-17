@@ -1,1 +1,3 @@
-# Placeholder file to keep the folder in git
+# Placeholder for images
+
+This .gitkeep file is used to keep the assets/images directory in version control even when it is empty.
