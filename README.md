@@ -1,71 +1,111 @@
 <!-- ANIMATED TYPING BANNER -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F78C&width=800&lines=Hey%2C+I'm+Phil+Greene!+%F0%9F%91%8B;AI+Automation+%26+Digital+Products+Builder...)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F78C&width=900&lines=Hey%2C+I'm+Phil+Greene!+%F0%9F%91%8B;Turning+AI+%2B+code+into+practical+tools...)]
 
-<!-- PROFILE HEADER -->
-<h1 align="center">Hey there 👋, I’m Phil Greene</h1>
-<h3 align="center">🚀 Building AI tools, creating digital products, and on a mission to level up my life through code</h3>
+<h1 align="center">Hey there 👋 I’m Phil Greene</h1>
+<h3 align="center">Turning AI + code into practical tools for creators and small businesses</h3>
 
-<!-- PROFILE BADGES -->
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/WebCraftPhil?label=Followers&style=social" />
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vtguy65?logo=twitter&style=for-the-badge" />
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=WebCraftPhil&color=brightgreen" />
-  
-  [![Follow me on LinkedIn](https://img.shields.io/badge/Follow%20Me%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=philgreene89)
-  
-  <a href="https://wakatime.com/@60977d89-ba57-4702-bdf2-021b4668c867"><img src="https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg" alt="wakatime"></a>
+  <a href="https://wakatime.com/@60977d89-ba57-4702-bdf2-021b4668c867">
+    <img src="https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg" alt="wakatime">
+  </a>
 </p>
 
 ---
 
-## 💼 Projects & Platforms
+## 👋 About Me
 
-- 📝 **AI Contract Platform:** [LegalLeaflet.com](https://LegalLeaflet.com)  
-- 🖼 **Gravatar / Portfolio:** [philgreene.link](https://philgreene.link)  
-- 💬 **Discord:** `designhive`  
-- 🛒 **Etsy Shop:** [stellarstylesandmore.etsy.com](https://stellarstylesandmore.etsy.com)  
-- 🛍 **Gumroad Store:** [vtguy65.gumroad.com](https://vtguy65.gumroad.com)  
-- 🧑‍💻 **Phil's Website:** [philgreene.net](https://philgreene.net)
+I’m a builder focused on **AI automation**, **data analytics**, and **digital products**.  
+My goal is simple: build useful tools that solve real problems and can actually make money.
+
+I come from a hands-on technical background and now spend my time shipping MVPs, experimenting with AI workflows, and turning ideas into practical software for freelancers and small businesses.
 
 ---
 
-## 🛠 Tech & Tools I Use
+## 🔍 What I’m Focused On Right Now
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+- Shipping AI-powered micro products with clear monetization paths  
+- Growing LegalLeaflet toward first paying users  
+- Strengthening Python, SQL, and data analytics fundamentals  
+- Building repeatable automation systems instead of one-off hacks  
 
 ---
 
-## 🎯 About Me
+## 💼 Projects & Case Studies
 
-I’m a 36-year-old creator and coder, constantly working to turn ideas into income. My focus right now is on **AI automation**, **data analytics**, and **digital product businesses**.  
-I believe in building practical, real-world solutions that can help freelancers, small businesses, and creators succeed.
+### 📝 LegalLeaflet
+**AI-powered contract generation for freelancers and creators**  
+🔗 https://LegalLeaflet.com
+
+- **Problem:** Legal templates are expensive, confusing, and overkill for solo operators  
+- **Solution:** Simple, guided contract creation using AI  
+- **Tech:** Python, Django, AI APIs  
+- **Status:** Live MVP, actively iterating toward first customers  
 
 ---
 
-## 📊 GitHub Stats
+### 🛒 Stellar Styles & More (Etsy)
+**Digital and print-on-demand products**  
+🔗 https://stellarstylesandmore.etsy.com
+
+- **Focus:** SEO-driven listings and fast product validation  
+- **Skills:** Market research, product testing, conversion optimization  
+- **Status:** Active shop and primary digital income stream  
+
+---
+
+### 🧠 Digital Products (Gumroad)
+**Templates, prompts, and tools for builders**  
+🔗 https://vtguy65.gumroad.com
+
+- **Products:** AI prompts, Notion templates, SEO tools  
+- **Goal:** Build scalable, low-maintenance digital income  
+- **Status:** Iterating on product-market fit  
+
+---
+
+### 🌐 Personal Portfolio & Links
+- https://philgreene.net  
+- https://philgreene.link  
+
+---
+
+## 🧠 How I Think
+
+- Ship early, validate fast  
+- Prefer simple, reliable solutions over flashy stacks  
+- Build tools that save time or make money  
+- Treat code as leverage, not just an academic exercise  
+
+---
+
+## 🛠 Tech Stack
+
+### Actively Using
+- Python
+- Django
+- JavaScript
+- GitHub and API integrations
+- AI and automation workflows
+
+### Experience With
+- Dart / Flutter
+- HTML / CSS
+- Data analytics tools and platforms
+- Blockchain concepts (Stellar)
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WebCraftPhil&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-### 🔝 Top Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebCraftPhil&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
-### 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WebCraftPhil&theme=tokyo-night" alt="GitHub Activity Graph"/>
@@ -73,30 +113,31 @@ I believe in building practical, real-world solutions that can help freelancers,
 
 ---
 
-## 🎶 Now Playing on Spotify
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+## 🤝 Open To
+
+- Entry-level data analyst or software roles  
+- Freelance automation or AI tooling projects  
+- Collaborating on practical, revenue-focused products  
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vtguy65)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/phil.greene1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vtguy59)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/phil.greene1?mibextid=LQQJ4d)
 
 ---
 
-## ☕ Support My Work
+<details>
+<summary>☕ Support My Work</summary>
 
-If you find my projects useful or just want to support the journey:  
+If you’ve found my projects useful and want to support the journey, a tip is always appreciated.
 
-**Cash App:** `$MrBurns59`  
+**Cash App:** `$MrBurns59`
 
-<p align="center">
-  <img src="F4EF4081-A729-4C8E-B5FB-93C826972216.jpeg" alt="Cash App QR" width="200"/>
-</p>
+</details>
 
 ---
 
-<p align="center"><i>"Keep shipping. Keep learning. Keep growing."</i></p>
+<p align="center"><i>Build useful things. Ship before you’re ready.</i></p>
